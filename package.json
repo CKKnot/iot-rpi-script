@@ -11,7 +11,7 @@
   "dependencies": {
     "@serialport/parser-readline": "^9.0.0",
     "@serialport/parser-ready": "^9.0.0",
-    "moment": "^2.25.3",
+    "moment": "^2.29.2",
     "mysql": "^2.18.1",
     "serialport": "^9.0.0"
   },
